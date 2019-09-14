@@ -1,1 +1,2 @@
-# PREDICTION-OF-POVERTY-LEVELS-OF-COSTA-RICAN-HOUSEHOLD-
+# PREDICTION-OF-POVERTY-LEVELS-OF-COSTA-RICAN-HOUSEHOLD
+This project is a comparision of different machnine learning models on a dataset which describes the poverty level of a household from CostaRica. The dataset was first cleaned, then feature reduction was done. Then the dataset was trained on LightGBM, NaiveBayes, MultiLayer Perceptron and a nueral network. The results of Fmeasure, precision, recall and accuracy for each model are displayed.
